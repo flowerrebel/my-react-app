@@ -13,6 +13,7 @@ class App extends React.Component {
       "visit egypt",
       "visit tunis",
       "visit kenya",
+      "visit seychelles",
     ];
 
     return <div>
