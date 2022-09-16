@@ -4,7 +4,7 @@ class Action extends React.Component {
   render() {
     return (
       <div>
-        <button>what to emphasise on</button>
+        <button>what to do</button>
       </div>
     );
   }
