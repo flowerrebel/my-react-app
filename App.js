@@ -7,7 +7,7 @@ import AddOption from "./components/Addoptions";
 class App extends React.Component {
   render() {
     const title = "my react app";
-    const subtitle = "what to emphasise on";
+    const subtitle = "what to do";
     const options = [
       "visit paris",
       "visit egypt",
